@@ -1,0 +1,15 @@
+/Users/sorin006730/Desktop/C# Code -- M/bin/Debug/net5.0/C# Code -- M.deps.json
+/Users/sorin006730/Desktop/C# Code -- M/bin/Debug/net5.0/C# Code -- M.runtimeconfig.json
+/Users/sorin006730/Desktop/C# Code -- M/bin/Debug/net5.0/C# Code -- M.runtimeconfig.dev.json
+/Users/sorin006730/Desktop/C# Code -- M/bin/Debug/net5.0/C# Code -- M.dll
+/Users/sorin006730/Desktop/C# Code -- M/bin/Debug/net5.0/ref/C# Code -- M.dll
+/Users/sorin006730/Desktop/C# Code -- M/bin/Debug/net5.0/C# Code -- M.pdb
+/Users/sorin006730/Desktop/C# Code -- M/obj/Debug/net5.0/C# Code -- M.csprojAssemblyReference.cache
+/Users/sorin006730/Desktop/C# Code -- M/obj/Debug/net5.0/C# Code -- M.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorin006730/Desktop/C# Code -- M/obj/Debug/net5.0/C# Code -- M.AssemblyInfoInputs.cache
+/Users/sorin006730/Desktop/C# Code -- M/obj/Debug/net5.0/C# Code -- M.AssemblyInfo.cs
+/Users/sorin006730/Desktop/C# Code -- M/obj/Debug/net5.0/C# Code -- M.csproj.CoreCompileInputs.cache
+/Users/sorin006730/Desktop/C# Code -- M/obj/Debug/net5.0/C# Code -- M.dll
+/Users/sorin006730/Desktop/C# Code -- M/obj/Debug/net5.0/ref/C# Code -- M.dll
+/Users/sorin006730/Desktop/C# Code -- M/obj/Debug/net5.0/C# Code -- M.pdb
+/Users/sorin006730/Desktop/C# Code -- M/obj/Debug/net5.0/C# Code -- M.genruntimeconfig.cache
